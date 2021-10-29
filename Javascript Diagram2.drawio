@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-29T03:05:48.399Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="bfh3_yHZvGli_zuJmH16" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-29T03:14:19.676Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="4U9pgPHoxE2Bi5bAEdMY" version="15.6.2" type="github">
   <diagram id="ZH2KbjmxVnfEUtynqmdB" name="Page-1">
     <mxGraphModel dx="770" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,6 +41,33 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="650" y="340" as="sourcePoint" />
             <mxPoint x="700" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ALMsAnsDGJCFRArficyo-10" value="frontend" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontColor=#000000;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="690" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ALMsAnsDGJCFRArficyo-11" value="Backend" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontColor=#000000;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="690" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ALMsAnsDGJCFRArficyo-12" value="unit test" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="810" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ALMsAnsDGJCFRArficyo-13" value="unit test" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="334" y="810" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ALMsAnsDGJCFRArficyo-14" value="E2E test" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="880" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ALMsAnsDGJCFRArficyo-16" value="white box testing" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="810" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ALMsAnsDGJCFRArficyo-17" value="black box testing" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="880" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ALMsAnsDGJCFRArficyo-18" value="" style="endArrow=none;html=1;rounded=0;sketch=1;fontFamily=Comic Sans MS;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="800" as="sourcePoint" />
+            <mxPoint x="680" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
