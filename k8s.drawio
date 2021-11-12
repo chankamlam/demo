@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-12T06:00:04.244Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="26drJhR_WDGuRTA5FwBP" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-12T06:03:21.602Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="nPWv7pfMGhcCaW_6eKcR" version="15.7.3" type="github">
   <diagram id="wxM91KjtH2dgA9Pzv15Z" name="Page-1">
     <mxGraphModel dx="770" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,6 +93,18 @@
         </mxCell>
         <mxCell id="xDMgqfDPusgay3Z4_gQc-27" value="&amp;lt; Container Base &amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontStyle=1;fontColor=#CC0000;" vertex="1" parent="1">
           <mxGeometry x="440" y="831" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xDMgqfDPusgay3Z4_gQc-28" value="&lt;font color=&quot;#000000&quot;&gt;App A&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontColor=#CC0000;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1000" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xDMgqfDPusgay3Z4_gQc-29" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span&gt;Container&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontColor=#CC0000;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="414" y="1000" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xDMgqfDPusgay3Z4_gQc-30" value="&lt;font color=&quot;#000000&quot;&gt;App A&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontColor=#CC0000;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1040" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xDMgqfDPusgay3Z4_gQc-31" value="&lt;font color=&quot;#000000&quot;&gt;Base OS&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontColor=#CC0000;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="429" y="1080" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
