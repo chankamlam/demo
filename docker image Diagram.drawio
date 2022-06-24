@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2022-06-24T00:59:56.438Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" version="20.0.3" etag="8bmxanhyFDUni7ihcZaB" type="github"><diagram id="QivWeZfE6LGXwXzTHjwh">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-24T01:09:59.653Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="hgtmBRzeiS2rIY-MtK4m" version="20.0.3" type="github">
+  <diagram id="QivWeZfE6LGXwXzTHjwh" name="Page-1">
+    <mxGraphModel dx="770" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="R7xPqjlWLjXAQOkBhmUv-7" value="/var/lib/docker" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;sketch=1;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="100" y="300" width="530" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="R7xPqjlWLjXAQOkBhmUv-2" value="Docker/hub" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="730" y="100" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="R7xPqjlWLjXAQOkBhmUv-3" value="Volumes" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R7xPqjlWLjXAQOkBhmUv-5" value="Images" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="510" y="320" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R7xPqjlWLjXAQOkBhmUv-6" value="Containers" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="315" y="320" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R7xPqjlWLjXAQOkBhmUv-8" value="Node" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="745" y="142" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R7xPqjlWLjXAQOkBhmUv-9" value="OpenJDK" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="745" y="190" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R7xPqjlWLjXAQOkBhmUv-10" value="ubuntu" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="745" y="240" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R7xPqjlWLjXAQOkBhmUv-12" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;fontFamily=Comic Sans MS;fontSize=12;curved=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R7xPqjlWLjXAQOkBhmUv-2" target="R7xPqjlWLjXAQOkBhmUv-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="290" as="sourcePoint" />
+            <mxPoint x="470" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R7xPqjlWLjXAQOkBhmUv-13" value="docker pull" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;sketch=1;fontFamily=Comic Sans MS;fontSize=12;" connectable="0" vertex="1" parent="R7xPqjlWLjXAQOkBhmUv-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R7xPqjlWLjXAQOkBhmUv-14" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;fontFamily=Comic Sans MS;fontSize=12;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R7xPqjlWLjXAQOkBhmUv-5" target="R7xPqjlWLjXAQOkBhmUv-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="280" as="sourcePoint" />
+            <mxPoint x="400" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R7xPqjlWLjXAQOkBhmUv-15" value="copy" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;sketch=1;fontFamily=Comic Sans MS;fontSize=12;" connectable="0" vertex="1" parent="R7xPqjlWLjXAQOkBhmUv-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R7xPqjlWLjXAQOkBhmUv-16" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;fontFamily=Comic Sans MS;fontSize=12;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R7xPqjlWLjXAQOkBhmUv-3" target="R7xPqjlWLjXAQOkBhmUv-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="250" as="sourcePoint" />
+            <mxPoint x="390" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R7xPqjlWLjXAQOkBhmUv-17" value="mount" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;sketch=1;fontFamily=Comic Sans MS;fontSize=12;" connectable="0" vertex="1" parent="R7xPqjlWLjXAQOkBhmUv-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
