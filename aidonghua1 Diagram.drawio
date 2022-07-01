@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" modified="2022-07-01T01:30:25.105Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="_XSnUr7NOkGSP-7KYTf9" version="20.0.4" type="github">
+  <diagram id="sRj0FKmPNzU5iEJd3fLG" name="Page-1">
+    <mxGraphModel dx="770" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NbZW_rrjMgkkwuXzkcz1-1" value="爱动画" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="220" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NbZW_rrjMgkkwuXzkcz1-2" value="注册用户" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NbZW_rrjMgkkwuXzkcz1-3" value="动画高校生" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NbZW_rrjMgkkwuXzkcz1-4" value="内容Up主" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NbZW_rrjMgkkwuXzkcz1-5" value="企业" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NbZW_rrjMgkkwuXzkcz1-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curved=1;" parent="1" source="NbZW_rrjMgkkwuXzkcz1-1" target="NbZW_rrjMgkkwuXzkcz1-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="180" as="sourcePoint" />
+            <mxPoint x="430" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NbZW_rrjMgkkwuXzkcz1-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;sketch=1;curved=1;" parent="1" source="NbZW_rrjMgkkwuXzkcz1-1" target="NbZW_rrjMgkkwuXzkcz1-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="330" as="sourcePoint" />
+            <mxPoint x="510" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NbZW_rrjMgkkwuXzkcz1-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;sketch=1;curved=1;" parent="1" source="NbZW_rrjMgkkwuXzkcz1-1" target="NbZW_rrjMgkkwuXzkcz1-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="300" as="sourcePoint" />
+            <mxPoint x="320" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NbZW_rrjMgkkwuXzkcz1-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;sketch=1;curved=1;" parent="1" source="NbZW_rrjMgkkwuXzkcz1-1" target="NbZW_rrjMgkkwuXzkcz1-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="190" as="sourcePoint" />
+            <mxPoint x="360" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NbZW_rrjMgkkwuXzkcz1-10" value="贡献换免费" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NbZW_rrjMgkkwuXzkcz1-11" value="证明换免费" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NbZW_rrjMgkkwuXzkcz1-12" value="付费换差异" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
