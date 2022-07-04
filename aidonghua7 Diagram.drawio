@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T13:38:07.491Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" version="20.0.4" etag="dhdZ_8kkmUCRYIyF-v1o" type="github"><diagram id="E7qo_Y5XK5vcfVulYXN-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-04T13:49:19.308Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="22ghNrjlF2zlscHiw2_8" version="20.0.4" type="github">
+  <diagram id="E7qo_Y5XK5vcfVulYXN-" name="Page-1">
+    <mxGraphModel dx="770" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qAjr4NNwbNe_Dym5huOW-1" value="爱设计" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qAjr4NNwbNe_Dym5huOW-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;sketch=1;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="269.5" as="sourcePoint" />
+            <mxPoint x="300" y="269.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qAjr4NNwbNe_Dym5huOW-3" value="爱动画" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qAjr4NNwbNe_Dym5huOW-4" value="户外广告" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qAjr4NNwbNe_Dym5huOW-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;sketch=1;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="499" y="270.5" as="sourcePoint" />
+            <mxPoint x="549" y="270.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qAjr4NNwbNe_Dym5huOW-6" value="店铺屏幕" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qAjr4NNwbNe_Dym5huOW-7" value="抖音/火山" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qAjr4NNwbNe_Dym5huOW-8" value="腾讯视频" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qAjr4NNwbNe_Dym5huOW-9" value="爱奇艺" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qAjr4NNwbNe_Dym5huOW-10" value="优酷/土豆" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qAjr4NNwbNe_Dym5huOW-11" value="快手" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qAjr4NNwbNe_Dym5huOW-12" value="Ps" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qAjr4NNwbNe_Dym5huOW-13" value="Audition" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qAjr4NNwbNe_Dym5huOW-14" value="AE" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qAjr4NNwbNe_Dym5huOW-15" value="Pr" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qAjr4NNwbNe_Dym5huOW-16" value="..." style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="90" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qAjr4NNwbNe_Dym5huOW-17" value="..." style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="580" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
