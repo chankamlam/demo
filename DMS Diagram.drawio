@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T08:37:17.682Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ZD8cHZjcaJg9XETbLHWD" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-12T08:39:48.327Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="GfL99dELl7E8GoWQ8bvs" version="18.0.7" type="github">
   <diagram id="_1yi99HODvwLNVEbN80R" name="Page-1">
-    <mxGraphModel dx="2105" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3383" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jHShUy1M93uFHqez85aA-23" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="70" y="210" width="1430" height="760" as="geometry" />
+          <mxGeometry x="70" y="210" width="1370" height="760" as="geometry" />
         </mxCell>
         <mxCell id="jHShUy1M93uFHqez85aA-71" value="Azure Cloud" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontSize=15;fontStyle=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="70" y="180" width="120" height="30" as="geometry" />
@@ -230,16 +230,16 @@
           <mxGeometry x="186" y="1538" width="121" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jHShUy1M93uFHqez85aA-156" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;sketch=1;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="580" width="160" height="360" as="geometry" />
+          <mxGeometry x="1222" y="400" width="160" height="530" as="geometry" />
         </mxCell>
         <mxCell id="jHShUy1M93uFHqez85aA-155" value="Mointir" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/monitor/SAP_Azure_Monitor.svg;labelBackgroundColor=none;labelBorderColor=none;sketch=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="607.88" width="70" height="56.00000000000001" as="geometry" />
+          <mxGeometry x="1264" y="440" width="70" height="56.00000000000001" as="geometry" />
         </mxCell>
         <mxCell id="jHShUy1M93uFHqez85aA-154" value="DNS" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/DNS_Zones.svg;labelBackgroundColor=none;labelBorderColor=none;sketch=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="1328" y="710" width="64" height="64" as="geometry" />
+          <mxGeometry x="1270" y="555.88" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="jHShUy1M93uFHqez85aA-157" value="Common Service" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=none;labelBorderColor=none;sketch=1;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="550" width="110" height="30" as="geometry" />
+          <mxGeometry x="1213" y="366" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jHShUy1M93uFHqez85aA-161" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="504" y="400" width="253.66" height="196.12" as="geometry" />
