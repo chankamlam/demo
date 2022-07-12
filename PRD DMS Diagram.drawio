@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T08:58:29.293Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="SPPOWehN7AKDn2DlEvWt" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-12T10:46:07.799Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="pSE5BsbZN1SRW5eV7FBi" version="18.0.7" type="github">
   <diagram id="_1yi99HODvwLNVEbN80R" name="Page-1">
-    <mxGraphModel dx="2105" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2016" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,7 +152,7 @@
         <mxCell id="jHShUy1M93uFHqez85aA-112" value="WEASDMSPRDWS01" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;sketch=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="300" y="440" width="69" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="jHShUy1M93uFHqez85aA-114" value="HKG-DMS-AKS-PRD-01" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Kubernetes_Services.svg;sketch=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+        <mxCell id="jHShUy1M93uFHqez85aA-114" value="AKS-HKG-EAS-PRD-CORPORATE-01" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Kubernetes_Services.svg;sketch=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="930" y="440" width="68" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jHShUy1M93uFHqez85aA-135" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Network_Security_Groups.svg;labelBackgroundColor=#B3B3B3;labelBorderColor=none;sketch=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
@@ -249,7 +249,7 @@
             <mxPoint x="1334" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jHShUy1M93uFHqez85aA-168" value="Access port (Unknow) from HKG-DMS-AKS-PRD-01" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Comic Sans MS;labelBackgroundColor=default;labelBorderColor=none;" parent="1" vertex="1" connectable="0">
+        <mxCell id="jHShUy1M93uFHqez85aA-168" value="Access port (Unknow) from AKS-HKG-EAS-PRD-CORPORTATE-01" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Comic Sans MS;labelBackgroundColor=default;labelBorderColor=none;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1280.001847216309" y="613.883669738508" as="geometry">
             <mxPoint x="-113" y="-371" as="offset" />
           </mxGeometry>
