@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T08:39:48.327Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="GfL99dELl7E8GoWQ8bvs" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-12T08:42:11.615Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="0Y3BNuZbrZqrc8jMe0mc" version="18.0.7" type="github">
   <diagram id="_1yi99HODvwLNVEbN80R" name="Page-1">
     <mxGraphModel dx="3383" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -303,6 +303,12 @@
             <mxPoint x="685.5" y="490" as="sourcePoint" />
             <mxPoint x="810" y="300" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jHShUy1M93uFHqez85aA-172" value="Container Registry" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/containers/Container_Registries.svg;shadow=1;dashed=1;labelBackgroundColor=none;labelBorderColor=none;sketch=1;fontFamily=Comic Sans MS;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1266" y="676" width="68" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="jHShUy1M93uFHqez85aA-173" value="Storage Account" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts.svg;shadow=1;dashed=1;labelBackgroundColor=none;labelBorderColor=none;sketch=1;fontFamily=Comic Sans MS;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="806" width="65" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
