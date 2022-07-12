@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T08:42:11.615Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="0Y3BNuZbrZqrc8jMe0mc" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-12T08:45:06.117Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="1E9tYM9fQE0w6UdgniqV" version="18.0.7" type="github">
   <diagram id="_1yi99HODvwLNVEbN80R" name="Page-1">
-    <mxGraphModel dx="3383" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2105" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -281,20 +281,20 @@
             <mxPoint x="-113" y="-371" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jHShUy1M93uFHqez85aA-166" value="" style="endArrow=none;html=1;sketch=1;fontFamily=Comic Sans MS;fontSize=12;curved=1;dashed=1;entryX=0.51;entryY=0.066;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="jHShUy1M93uFHqez85aA-23">
+        <mxCell id="jHShUy1M93uFHqez85aA-166" value="" style="endArrow=none;html=1;sketch=1;fontFamily=Comic Sans MS;fontSize=12;curved=1;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="690" y="430" as="sourcePoint" />
-            <mxPoint x="790" y="300" as="targetPoint" />
+            <mxPoint x="770" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jHShUy1M93uFHqez85aA-167" value="" style="endArrow=none;html=1;sketch=1;fontFamily=Comic Sans MS;fontSize=12;curved=1;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="800" y="260" as="sourcePoint" />
-            <mxPoint x="1160" y="260" as="targetPoint" />
+            <mxPoint x="770" y="260" as="sourcePoint" />
+            <mxPoint x="1334" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jHShUy1M93uFHqez85aA-168" value="Access port (Unknow) from HKG-DMS-AKS-NONPROD-01" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Comic Sans MS;labelBackgroundColor=default;labelBorderColor=none;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1110.001847216309" y="614.003669738508" as="geometry">
+          <mxGeometry x="1280.001847216309" y="613.883669738508" as="geometry">
             <mxPoint x="-113" y="-371" as="offset" />
           </mxGeometry>
         </mxCell>
