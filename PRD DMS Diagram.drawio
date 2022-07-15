@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T10:02:33.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="d7A0K-67neCWg5X74vae" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-15T10:03:02.621Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="q092A1uJWQnGof1iAG4_" version="18.0.7" type="github">
   <diagram id="_1yi99HODvwLNVEbN80R" name="Page-1">
     <mxGraphModel dx="1865" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -215,7 +215,7 @@
         <mxCell id="jHShUy1M93uFHqez85aA-156" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;dashed=1;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="1222" y="400" width="160" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="jHShUy1M93uFHqez85aA-155" value="Mointir" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/monitor/SAP_Azure_Monitor.svg;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Comic Sans MS;sketch=1;" parent="1" vertex="1">
+        <mxCell id="jHShUy1M93uFHqez85aA-155" value="Monitor" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/monitor/SAP_Azure_Monitor.svg;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Comic Sans MS;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="1264" y="440" width="70" height="56.00000000000001" as="geometry" />
         </mxCell>
         <mxCell id="jHShUy1M93uFHqez85aA-154" value="DNS" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/DNS_Zones.svg;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Comic Sans MS;sketch=1;" parent="1" vertex="1">
