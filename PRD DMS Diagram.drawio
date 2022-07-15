@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-15T14:29:09.240Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="YLTglc8hnh3dqy-TM0Rf" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-15T14:31:51.756Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="fies2jQLYCKBxuEsvC7L" version="18.0.7" type="github">
   <diagram id="_1yi99HODvwLNVEbN80R" name="Page-1">
     <mxGraphModel dx="1865" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,17 +114,17 @@
         <mxCell id="jHShUy1M93uFHqez85aA-124" value="" style="endArrow=none;html=1;fontFamily=Comic Sans MS;fontSize=12;curved=1;dashed=1;sketch=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="790" y="1060" as="sourcePoint" />
-            <mxPoint x="1260" y="1060" as="targetPoint" />
+            <mxPoint x="1430" y="1060" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jHShUy1M93uFHqez85aA-126" value="" style="endArrow=none;html=1;fontFamily=Comic Sans MS;fontSize=12;curved=1;dashed=1;sketch=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="998" y="1145" as="sourcePoint" />
-            <mxPoint x="1360" y="1145" as="targetPoint" />
+            <mxPoint x="1440" y="1145" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jHShUy1M93uFHqez85aA-127" value="Access&amp;nbsp; port (139,445) from HKG-DMS-ASK-PRD-01" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Comic Sans MS;labelBackgroundColor=default;labelBorderColor=none;sketch=1;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1110.001847216309" y="1040.003669738508" as="geometry" />
+        <mxCell id="jHShUy1M93uFHqez85aA-127" value="Access&amp;nbsp; port (139,445) from AKS-HKG-EAS-PRD-CORPORATE-01" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Comic Sans MS;labelBackgroundColor=default;labelBorderColor=none;sketch=1;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="1241.001847216309" y="1040.003669738508" as="geometry" />
         </mxCell>
         <mxCell id="jHShUy1M93uFHqez85aA-128" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=12;curved=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;sketch=1;" parent="1" source="jHShUy1M93uFHqez85aA-91" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -263,8 +263,8 @@
         <mxCell id="Gq7MJxhWNbvMgg8RjQqV-1" value="Access port (1433) from WEASDMSPRDWS01" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Comic Sans MS;labelBackgroundColor=default;labelBorderColor=none;sketch=1;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="120.00184721630882" y="1120.003669738508" as="geometry" />
         </mxCell>
-        <mxCell id="Gq7MJxhWNbvMgg8RjQqV-2" value="Access port (unknow) from WEASDMSPRDWS01" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Comic Sans MS;labelBackgroundColor=default;labelBorderColor=none;sketch=1;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1222.0018472163088" y="1126.003669738508" as="geometry" />
+        <mxCell id="Gq7MJxhWNbvMgg8RjQqV-2" value="Access port (80) from WEASDMSPRDWS01" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Comic Sans MS;labelBackgroundColor=default;labelBorderColor=none;sketch=1;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="1302.0018472163088" y="1130.003669738508" as="geometry" />
         </mxCell>
         <mxCell id="iHFx-w9J1aIRynhjewf0-3" value="" style="endArrow=classic;html=1;rounded=0;curved=1;sketch=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;startArrow=none;exitX=0.25;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="iHFx-w9J1aIRynhjewf0-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
