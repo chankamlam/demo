@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-18T04:48:35.547Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="B0-sohGKVTHqPRfXJzJ6" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-18T06:33:47.368Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="8PTi_RtjoO1lzudI31Ly" version="20.1.1" type="github">
   <diagram id="_1yi99HODvwLNVEbN80R" name="Page-1">
     <mxGraphModel dx="2531" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
             <mxPoint x="360" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jHShUy1M93uFHqez85aA-121" value="Access port (1433) from WEASDMSPRDWS01" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Comic Sans MS;labelBackgroundColor=default;labelBorderColor=none;sketch=1;" parent="jHShUy1M93uFHqez85aA-105" vertex="1" connectable="0">
+        <mxCell id="jHShUy1M93uFHqez85aA-121" value="Access port (1433) from WHKEASDMSWSP01" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Comic Sans MS;labelBackgroundColor=default;labelBorderColor=none;sketch=1;" parent="jHShUy1M93uFHqez85aA-105" vertex="1" connectable="0">
           <mxGeometry x="-0.0609" y="3" relative="1" as="geometry">
             <mxPoint x="-332" y="1" as="offset" />
           </mxGeometry>
@@ -149,7 +149,7 @@
         <mxCell id="jHShUy1M93uFHqez85aA-59" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="400" width="253.66" height="196.12" as="geometry" />
         </mxCell>
-        <mxCell id="jHShUy1M93uFHqez85aA-112" value="WEASDMSPRDWS01" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;fontFamily=Comic Sans MS;sketch=1;" parent="1" vertex="1">
+        <mxCell id="jHShUy1M93uFHqez85aA-112" value="WHKEASDMSWSP01" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;fontFamily=Comic Sans MS;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="331" y="440" width="69" height="64" as="geometry" />
         </mxCell>
         <mxCell id="jHShUy1M93uFHqez85aA-114" value="AKS-HKG-EAS-PRD-CORPORATE-01" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/compute/Kubernetes_Services.svg;fontFamily=Comic Sans MS;sketch=1;" parent="1" vertex="1">
@@ -260,10 +260,10 @@
         <mxCell id="jHShUy1M93uFHqez85aA-173" value="Storage Account" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/storage/Storage_Accounts.svg;shadow=1;dashed=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Comic Sans MS;fontColor=default;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="1270" y="806" width="65" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="Gq7MJxhWNbvMgg8RjQqV-1" value="Access port (1433) from WEASDMSPRDWS01" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Comic Sans MS;labelBackgroundColor=default;labelBorderColor=none;sketch=1;" parent="1" vertex="1" connectable="0">
+        <mxCell id="Gq7MJxhWNbvMgg8RjQqV-1" value="Access port (1433) from WHKEASDMSWSP01" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Comic Sans MS;labelBackgroundColor=default;labelBorderColor=none;sketch=1;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="120.00184721630882" y="1120.003669738508" as="geometry" />
         </mxCell>
-        <mxCell id="Gq7MJxhWNbvMgg8RjQqV-2" value="Access port (80) from WEASDMSPRDWS01" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Comic Sans MS;labelBackgroundColor=default;labelBorderColor=none;sketch=1;" parent="1" vertex="1" connectable="0">
+        <mxCell id="Gq7MJxhWNbvMgg8RjQqV-2" value="Access port (80) from WHKEASDMSWSP01" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Comic Sans MS;labelBackgroundColor=default;labelBorderColor=none;sketch=1;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1302.0018472163088" y="1130.003669738508" as="geometry" />
         </mxCell>
         <mxCell id="iHFx-w9J1aIRynhjewf0-3" value="" style="endArrow=classic;html=1;rounded=0;curved=1;sketch=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;startArrow=none;exitX=0.25;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="iHFx-w9J1aIRynhjewf0-5" edge="1">
