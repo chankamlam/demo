@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-09-28T01:52:49.282Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="pmZXnCK2zEDvID9ncAi_" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-28T01:55:19.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="j5tHNE6ak5cOsEC_AP0v" version="20.2.3" type="github">
   <diagram id="ZOt4uicEZW6HwHJQP9Ld" name="Page-1">
-    <mxGraphModel dx="944" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1298" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2MkG3pbl4p7UUgt_Ae9u-49" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;b&gt;Queue&amp;lt;Msg&amp;gt;&lt;br&gt;&lt;/b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;Ordering by TimeStamp&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;Keep it O(LogN) When Search&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;Capacity can be config&lt;/i&gt;&lt;/font&gt;&lt;/blockquote&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;shadow=0;glass=0;sketch=1;hachureGap=4;fontFamily=Comic Sans MS;fontSize=15;align=left;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="370" width="250" height="100" as="geometry" />
+          <mxGeometry x="1116" y="370" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2MkG3pbl4p7UUgt_Ae9u-29" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="80" y="530" width="1040" height="290" as="geometry" />
@@ -67,11 +67,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2MkG3pbl4p7UUgt_Ae9u-25" value="Key (Customer_ID+System_ID)" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Comic Sans MS;fontSize=15;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="2MkG3pbl4p7UUgt_Ae9u-25" value="Key (Customer_ID+System_ID)" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Comic Sans MS;fontSize=15;shadow=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="130" y="550" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2MkG3pbl4p7UUgt_Ae9u-27" value="Value (Queue&amp;lt;Msg&amp;gt;)" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Comic Sans MS;fontSize=15;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="490" y="550" width="280" height="30" as="geometry" />
+        <mxCell id="2MkG3pbl4p7UUgt_Ae9u-27" value="Value (Queue&amp;lt;Msg&amp;gt;)" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Comic Sans MS;fontSize=15;shadow=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="490" y="550" width="530" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2MkG3pbl4p7UUgt_Ae9u-31" value="Ken007_Wechat01" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="130" y="610" width="280" height="40" as="geometry" />
@@ -127,14 +127,23 @@
         <mxCell id="2MkG3pbl4p7UUgt_Ae9u-48" value="..." style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;hachureGap=4;fontFamily=Comic Sans MS;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="930" y="750" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2MkG3pbl4p7UUgt_Ae9u-50" style="rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.016;entryY=0.416;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;fontSize=12;endArrow=oval;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;edgeStyle=orthogonalEdgeStyle;curved=1;startArrow=oval;startFill=1;endFill=1;shadow=0;" edge="1" parent="1" source="2MkG3pbl4p7UUgt_Ae9u-27" target="2MkG3pbl4p7UUgt_Ae9u-49">
+        <mxCell id="2MkG3pbl4p7UUgt_Ae9u-50" style="rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.016;entryY=0.416;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;fontSize=12;endArrow=oval;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;edgeStyle=entityRelationEdgeStyle;startArrow=oval;startFill=1;endFill=1;shadow=0;" edge="1" parent="1" source="2MkG3pbl4p7UUgt_Ae9u-27" target="2MkG3pbl4p7UUgt_Ae9u-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2MkG3pbl4p7UUgt_Ae9u-51" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;b&gt;Example Data of Msg&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;Header {&lt;/i&gt;&lt;/span&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Type : Create,&lt;/i&gt;&lt;/span&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Customer_ID : Ken007&lt;/i&gt;&lt;/span&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; System_ID : Wechat01&lt;/i&gt;&lt;/span&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Mobile : 123&lt;/i&gt;&lt;/span&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; LastModifiedTimeStamp :&amp;nbsp; &amp;nbsp; 1111111111111111111111111&lt;/i&gt;&lt;/span&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;i&gt;}&lt;/i&gt;&lt;/span&gt;&lt;/blockquote&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;shadow=0;glass=0;sketch=1;hachureGap=4;fontFamily=Comic Sans MS;fontSize=15;align=left;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1214" y="600" width="416" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="2MkG3pbl4p7UUgt_Ae9u-52" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;fontFamily=Comic Sans MS;fontSize=12;startArrow=oval;startFill=1;endArrow=oval;endFill=1;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="2MkG3pbl4p7UUgt_Ae9u-36" target="2MkG3pbl4p7UUgt_Ae9u-51">
+        <mxCell id="2MkG3pbl4p7UUgt_Ae9u-52" style="edgeStyle=entityRelationEdgeStyle;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;fontFamily=Comic Sans MS;fontSize=12;startArrow=oval;startFill=1;endArrow=oval;endFill=1;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="2MkG3pbl4p7UUgt_Ae9u-36" target="2MkG3pbl4p7UUgt_Ae9u-51">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2MkG3pbl4p7UUgt_Ae9u-53" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;sketch=1;hachureGap=4;fontFamily=Comic Sans MS;fontSize=15;startSize=14;endSize=3.818181818181818;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;entryX=0.481;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;width=69.09090909090908;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="422" y="430" as="sourcePoint" />
+            <mxPoint x="421.5100000000002" y="504.75" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="422" y="460" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
