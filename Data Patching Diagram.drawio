@@ -1,42 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T01:35:52.436Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="7_8GDX4he410wbIiypS7" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-25T02:13:31.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="plzgAyqkythdQMqLH22N" version="20.4.2" type="github">
   <diagram id="6Hed4AnB6bPztGE9XCeQ" name="Page-1">
-    <mxGraphModel dx="1191" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNERfOUMqjBAJTPeHLXD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;sketch=1;shadow=1;" edge="1" parent="1" source="dNERfOUMqjBAJTPeHLXD-1" target="dNERfOUMqjBAJTPeHLXD-2">
+        <mxCell id="dNERfOUMqjBAJTPeHLXD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;sketch=1;shadow=1;" parent="1" source="dNERfOUMqjBAJTPeHLXD-1" target="dNERfOUMqjBAJTPeHLXD-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dNERfOUMqjBAJTPeHLXD-1" value="Ingestion" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;shadow=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="dNERfOUMqjBAJTPeHLXD-1" value="Ingestion" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;shadow=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="60" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dNERfOUMqjBAJTPeHLXD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;sketch=1;shadow=1;" edge="1" parent="1" source="dNERfOUMqjBAJTPeHLXD-2" target="dNERfOUMqjBAJTPeHLXD-4">
+        <mxCell id="dNERfOUMqjBAJTPeHLXD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;sketch=1;shadow=1;" parent="1" source="dNERfOUMqjBAJTPeHLXD-2" target="dNERfOUMqjBAJTPeHLXD-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dNERfOUMqjBAJTPeHLXD-2" value="Filter Selective CX Record" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;shadow=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="dNERfOUMqjBAJTPeHLXD-2" value="Filter Selective CX Record" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;shadow=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="280" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dNERfOUMqjBAJTPeHLXD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;sketch=1;shadow=1;" edge="1" parent="1" source="dNERfOUMqjBAJTPeHLXD-4" target="dNERfOUMqjBAJTPeHLXD-5">
+        <mxCell id="dNERfOUMqjBAJTPeHLXD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;sketch=1;shadow=1;" parent="1" source="dNERfOUMqjBAJTPeHLXD-4" target="dNERfOUMqjBAJTPeHLXD-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dNERfOUMqjBAJTPeHLXD-4" value="Validation" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;shadow=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="dNERfOUMqjBAJTPeHLXD-4" value="Validation" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;shadow=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="490" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dNERfOUMqjBAJTPeHLXD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.417;entryY=-0.075;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;sketch=1;shadow=1;" edge="1" parent="1" source="dNERfOUMqjBAJTPeHLXD-5">
+        <mxCell id="dNERfOUMqjBAJTPeHLXD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.417;entryY=-0.075;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;sketch=1;shadow=1;" parent="1" source="dNERfOUMqjBAJTPeHLXD-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="760.04" y="347" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dNERfOUMqjBAJTPeHLXD-5" value="Transform to Json" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;shadow=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="dNERfOUMqjBAJTPeHLXD-5" value="Transform to Json" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;shadow=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="700" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dNERfOUMqjBAJTPeHLXD-6" value="Transportation (Bulk / Single API)" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;shadow=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="dNERfOUMqjBAJTPeHLXD-6" value="Transportation (Bulk / Single API)" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;shadow=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="60" y="350" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dNERfOUMqjBAJTPeHLXD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;sketch=1;shadow=1;" edge="1" parent="1" source="dNERfOUMqjBAJTPeHLXD-8" target="dNERfOUMqjBAJTPeHLXD-6">
+        <mxCell id="dNERfOUMqjBAJTPeHLXD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;sketch=1;shadow=1;" parent="1" source="dNERfOUMqjBAJTPeHLXD-8" target="dNERfOUMqjBAJTPeHLXD-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dNERfOUMqjBAJTPeHLXD-8" value="Cover fields Json by Partial Data" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;shadow=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="dNERfOUMqjBAJTPeHLXD-8" value="Generate Partial Json by Template" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;shadow=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="510" y="350" width="310" height="40" as="geometry" />
         </mxCell>
       </root>
